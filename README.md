@@ -8,9 +8,6 @@
 
 > Fbi Warning 2: 本程序仅在本仓库发布并更新，请勿下载运行其它来路不明的版本，由此造成的一切损失，请自行承担。
 
-## 广告
-
-需要以太坊（ETH）靓号生成的，请移步：[profanity-ether](https://github.com/GG4mida/profanity-ether)
 
 ## 说明
 
