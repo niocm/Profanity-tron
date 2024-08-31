@@ -218,7 +218,7 @@ cl_ulong4 Dispatcher::Device::createSeed()
 
 ## 打赏
 
-- TRON: TK2yZDdmRXVNPvduHk5BPBeY1KcxUMv4mP
+- TRON: 
 
 ## 一点题外话
 
@@ -226,4 +226,4 @@ cl_ulong4 Dispatcher::Device::createSeed()
 
 ## 联系
 
-- 电报: [@jackslowfak](https://t.me/jackslowfak)
+- 电报: [@Dingsi](https://t.me/Dingsi)
